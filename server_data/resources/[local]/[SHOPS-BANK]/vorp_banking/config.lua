@@ -1,6 +1,6 @@
 Config = {}
 
-Config.languageCode = "en";
+Config.languageCode = "fr";
 
 Config.banks = {
     Valentine = {
