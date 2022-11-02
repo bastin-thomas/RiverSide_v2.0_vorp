@@ -1,6 +1,6 @@
 Config = {}
 
-Config.defaultlang = "en_lang"
+Config.defaultlang = "fr_lang"
 
 -- Crafting Key
 Config.Keys = {
@@ -34,6 +34,7 @@ Config.Distances = {
 --     y = -1390.924, 
 --     z = 43.573
 -- }
+
 Config.Locations = {
     {
         name = 'Blackwater Crafting Station',
