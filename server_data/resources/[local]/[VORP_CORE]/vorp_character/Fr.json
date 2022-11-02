@@ -11,381 +11,380 @@
   "PressSelectInfo": "Changer de Personnage <- or -> | Sélectionner un personnage [ENTER]",
 
   "CommandHat": "Chapeau",
-  "CommandEyeWear": "eyewear",
-  "CommandMask": "mask",
-  "CommandNeckWear": "neckwear",
-  "CommandNeckTies": "neckties",
-  "CommandShirt": "shirt",
-  "CommandSuspender": "suspender",
-  "CommandVest": "vest",
-  "CommandCoat": "coat",
-  "CommandCCoat": "ccoat",
-  "Commandbow": "bow",
-  "Commandarmor": "armor",
-  "CommandPoncho": "poncho",
-  "CommandCloak": "cloack",
-  "CommandGlove": "glove",
-  "CommandRings": "rings",
-  "CommandBracelet": "bracelet",
-  "CommandBelt": "belt",
-  "CommandBuckle": "buckle",
-  "CommandPant": "pant",
-  "CommandSkirt": "skirt",
-  "CommandChap": "chap",
-  "CommandBoots": "boots",
+  "CommandEyeWear": "Lunettes",
+  "CommandMask": "Masque",
+  "CommandNeckWear": "Accesoires de cou",
+  "CommandNeckTies": "Cravate",
+  "CommandShirt": "Chemise",
+  "CommandSuspender": "Brettelles",
+  "CommandVest": "Gilet",
+  "CommandCoat": "Manteau",
+  "CommandCCoat": "Manteau Fermés",
+  "Commandbow": "Arc",
+  "Commandarmor": "Armure",
+  "CommandPoncho": "Poncho",
+  "CommandCloak": "Couche",
+  "CommandGlove": "Gants",
+  "CommandRings": "Bagues",
+  "CommandBracelet": "Bracelets",
+  "CommandBelt": "Ceintures",
+  "CommandBuckle": "Boucle",
+  "CommandPant": "Pantalon",
+  "CommandSkirt": "Jupe",
+  "CommandChap": "Chaps",
+  "CommandBoots": "Bottes",
   "CommandSpurs": "spurs",
   "CommandSpats": "spats",
-  "CommandGauntlets": "gauntlets",
-  "CommandLoadouts": "loadouts",
-  "CommandAccessories": "accessories",
-  "CommandSatchels": "satchels",
-  "CommandGunbeltAccs": "gunbeltaccs",
-  "CommandUndress": "undress",
-  "CommandDress": "dress",
+  "CommandGauntlets": "Gantelets",
+  "CommandLoadouts": "Cartouchières",
+  "CommandAccessories": "Accesoires",
+  "CommandSatchels": "Sacoches",
+  "CommandGunbeltAccs": "Accesoires de Ceintures",
+  "CommandUndress": "deshabiller",
+  "CommandDress": "habiller",
 
-  "Scale": "Height #",
-  "ScaleList": "Character Height",
-  "ScaleDesc": "Adjust the height (we recommend choosing this as your final option or you will not be able to see the cameras well)",
+  "Scale": "Hauteur #",
+  "ScaleList": "Hauteur du Personnage",
+  "ScaleDesc": "!!! Entre 0.9 et 1.1 !!!",
 
-  "EyeBrows": "Eyebrows #",
-  "EyeBrowsList": "Type of Eyebrows",
-  "EyeBrowsDesc": "Eyebrows form",
+  "EyeBrows": "Sourcils #",
+  "EyeBrowsList": "Types de sourcils",
+  "EyeBrowsDesc": "Forme des sourcils",
+  "Scars": "Cicatrice #",
+  "ScarsList": "Types de cicatrices",
+  "ScarsDesc": "Ajouter des cicatrices",
 
-  "Scars": "Scar #",
-  "ScarsList": "Types of Scars",
-  "ScarsDesc": "Add Scars",
-
-  "Spots": "Spots #",
-  "SpotsList": "Types of Spots",
-  "SpotsDesc": "Solar Spots",
+  "Spots": "Tache #",
+  "SpotsList": "Types de taches",
+  "SpotsDesc": "Taches solaires",
 
   "Disc": "Petechiae #",
-  "DiscList": "Types of Petechiae",
-  "DiscDesc": "Red stains on the face (because of the age)",
+  "DiscList": "Types de Petechiae",
+  "DiscDesc": "Taches rouges sur le visage (généralement en raison de l'âge)",
 
   "Complex": "Complexion #",
-  "ComplexList": "Types of Complexion",
-  "ComplexDesc": "Solar burns",
+  "ComplexList": "Types de Complexion",
+  "ComplexDesc": "Taches de coup de soleil",
 
-  "Acne": "Acne #",
-  "AcneList": "Types of Acne",
-  "AcneDesc": "Add Acne to the face",
+  "Acne": "Acné #",
+  "AcneList": "Types de Acné",
+  "AcneDesc": "Ajoutez de l'acné au visage",
 
-  "Ageing": "Ageing #",
-  "AgeingList": "Types of Ageing",
-  "AgeingDesc": "Face Ageing",
+  "Ageing": "Vieillissement #",
+  "AgeingList": "Types de vieillissement",
+  "AgeingDesc": "Vieillissement du visage",
 
-  "Moles": "Moles #",
-  "MolesList": "Types of Moles",
-  "MolesDesc": "Add Moles",
+  "Moles": "Grain de beauté #",
+  "MolesList": "Types de grain de bauté",
+  "MolesDesc": "Ajouter des grain de beauté",
 
-  "Freckles": "Freckles #",
-  "FrecklesList": "Types of Freckles",
-  "FrecklesDesc": "Add Freckles",
+  "Freckles": "Taches de rousseur #",
+  "FrecklesList": "Taches de rousseur",
+  "FrecklesDesc": "Ajouter des taches de rousseur",
 
-  "Grimes": "Grime #",
-  "GrimesList": "Types of Grime",
-  "GrimesDesc": "Add grime or dirt",
+  "Grimes": "Saleté #",
+  "GrimesList": "Types de Saleté",
+  "GrimesDesc": "Ajouter de la saleté ou de la crasse",
 
-  "Lipsticks": "Lipstick #",
-  "LipsticksList": "Types of Lipstick",
-  "LipsticksDesc": "Add Makeup",
+  "Lipsticks": "Rouge à lèvres #",
+  "LipsticksList": "Types de rouges à lèvres",
+  "LipsticksDesc": "Ajouter du maquillage",
 
-  "LipsticksColors": "Color #",
-  "LipsticksColorsList": "Base Lipstick Color",
-  "LipsticksColorsDesc": "Add Makeup",
+  "LipsticksColors": "Couleur #",
+  "LipsticksColorsList": "Couleur de rouge à lèvres de base",
+  "LipsticksColorsDesc": "Ajouter du maquillage",
 
-  "LipsticksPColors": "Color #",
-  "LipsticksPColorsList": "Mixed Lipstick Color",
-  "LipsticksPColorsDesc": "Add Makeup",
+  "LipsticksPColors": "Couleur #",
+  "LipsticksPColorsList": "Mélange de couleurs de rouge à lèvres",
+  "LipsticksPColorsDesc": "Ajouter du maquillage",
 
-  "Shadows": "Eyeshadow #",
-  "ShadowsList": "Types of Eyeshadow",
-  "ShadowsDesc": "Add Makeup",
+  "Shadows": "Le fard à paupières #",
+  "ShadowsList": "Types d'ombrage",
+  "ShadowsDesc": "Ajouter du maquillage",
 
-  "ShadowsColors": "Color #",
-  "ShadowsColorsList": "Base Eyeshadow Color",
-  "ShadowsColorsDesc": "Add Makeup",
+  "ShadowsColors": "Couleur #",
+  "ShadowsColorsList": "Couleur de base de l'ombre",
+  "ShadowsColorsDesc": "Ajouter du maquillage",
 
-  "ShadowsPColors": "Color #",
-  "ShadowsPColorsList": "Mixed Eyeshadow Color",
-  "ShadowsPColorsDesc": "Add Makeup",
+  "ShadowsPColors": "Couleur #",
+  "ShadowsPColorsList": "Mélange de couleurs d'ombrage",
+  "ShadowsPColorsDesc": "Ajouter du maquillage",
 
-  "Eyes": "Eyes #",
-  "EyesList": "Types of Eyes",
-  "EyesDesc": "Change the eye color",
+  "Eyes": "Yeux #",
+  "EyesList": "Couleur des yeux",
+  "EyesDesc": "Changez la couleur de vos yeux",
 
   //Input Name 
-  "PlaceHolderInputName": "Write the first name and last name of your character",
-  "ButtonInputName": "Confirm",
-  "InputError": "You must have a name longer than 3 letters",
+  "PlaceHolderInputName": "Entrer le Prénom et le Nom de votre personnage",
+  "ButtonInputName": "Confirmer",
+  "InputError": "Vous devez avoir un nom de plus de 3 lettres",
 
   //Body
-  "TitleMainMenu": "Character Editor",
-  "SubTitleMainMenu": "Customize your character",
-  "FinishBtnMainMenu": "Finish and Safe",
-  "SubFinishBtnMainMenu": "Finish character creation.",
+  "TitleMainMenu": "Éditeur de personnages",
+  "SubTitleMainMenu": "Éditez votre personnage",
+  "FinishBtnMainMenu": "Fin et Sauvegarde",
+  "SubFinishBtnMainMenu": "Terminez la création du personnage.",
 
-  "TitleClothesMenu": "Dressing room",
-  "SubTitleClothesMenu": "Dress up your character",
+  "TitleClothesMenu": "Vestiaire",
+  "SubTitleClothesMenu": "Habillez votre personnage",
 
-  "TitleFaceMenu": "Customize face",
-  "SubTitleFaceMenu": "Customize your characters face",
+  "TitleFaceMenu": "Personnaliser le visage",
+  "SubTitleFaceMenu": "Personnalisez le visage de vos personnages",
 
-  "TitleSkinMenu": "Customize Skin",
-  "SubTitleSkinMenu": "Customize your characters body",
+  "TitleSkinMenu": "Personnaliser la peau",
+  "SubTitleSkinMenu": "Personnalisez le corps de votre personnage",
 
-  "TitleImportMenu": "Import Skin",
-  "SubTitleImportMenu": "If you have played in another server that uses VORP Core you will be able to import your skin.",
+  "TitleImportMenu": "Importer une peau",
+  "SubTitleImportMenu": "Si vous avez joué sur un autre serveur qui utilise VORP Core, vous pourrez importer votre skin.",
 
-  "LegsValues": "Legs #",
-  "TorsoValues": "Torso #",
-  "FaceValues": "Face #",
-  "MaskValue": "Face Mask #",
-  "BodyColorValues": "Colour #",
+  "LegsValues": "Jambes #",
+  "TorsoValues": "Torse #",
+  "FaceValues": "Visage #",
+  "MaskValue": "Masque #",
+  "BodyColorValues": "Couleur #",
   "TypeValues": "Type #",
-  "BeardValue": "Beard #",
-  "HairValue": "Hair #",
-  "BodySizeValue": "Body #",
-  "WaistValue": "Waist #",
-  "NoExistValue": "Does not exist",
+  "BeardValue": "Barbe #",
+  "HairValue": "Cheveux #",
+  "BodySizeValue": "Corps #",
+  "WaistValue": "Taille #",
+  "NoExistValue": "N'existe pas",
 
-  "LegsType": "Type of legs",
-  "TorsoType": "Type of torso",
-  "FaceType": "Type of face",
-  "BodyColor": "Body colour",
-  "FaceSize": "Face size",
-  "EyebrowHeight": "Eyebrow height",
-  "EyebrowWidth": "Eyebrow width",
-  "EyebrowDepth": "Eyebrow depth",
-  "EarsHeight": "Ears height",
-  "EarsAngle": "Ears inclination",
-  "EarsSize": "Ears size",
-  "EarsLobeSize": "Earlobe size",
-  "EyelidsHeight": "Eyelids height",
-  "EyelidsWidth": "Eyelids width",
-  "EyeDepth": "Eye depth",
-  "EyeAngle": "Eye inclination",
-  "EyeSeparation": "Eye separation",
-  "EyeHeight": "Eye height",
-  "NoseWidth": "Nose width",
-  "NoseSize": "Nose size",
-  "NoseHeight": "Nose height",
-  "NoseAngle": "Nose inclination",
-  "NoseCurvature": "Nose curvature",
-  "NostrilsSeparation": "Nostrils separation",
-  "CheekbonesHeight": "Cheekbones height",
-  "CheekbonesWidth": "Cheekbones width",
-  "CheekbonesDepth": "Cheekbones depth",
-  "MouthWidth": "Mouth width",
-  "MouthDepth": "Mouth depth",
-  "MouthDeviation": "Mouth deviation",
-  "MouthHeight": "Mouth height",
-  "UpperLipHeight": "Upper lip height",
-  "UpperLipWidth": "Upper lip width",
-  "UpperLipDepth": "Upper lip depth",
-  "LowerLipHeight": "Lower lip height",
-  "LowerLipWidth": "Lower lip width",
-  "LowerLipDepth": "Lower lip depth",
-  "MandibleHeight": "Mandible height",
-  "MandibleWidth": "Mandible width",
-  "MandibleDepth": "Mandible depth",
-  "ChinHeight": "Chin height",
-  "ChinWidth": "Chin width",
-  "ChinDepth": "Chin depth",
-  "BeardType": "Type of beard",
-  "HairType": "Type of hair",
-  "BodyType": "Type of body",
-  "WaistType": "Type of waist",
-  "Confirm": "Confirm",
+  "LegsType": "Type de jambes",
+  "TorsoType": "Type de torse",
+  "FaceType": "Type de visage",
+  "BodyColor": "Couleur du corps",
+  "FaceSize": "Taille du visage",
+  "EyebrowHeight": "Hauteur des sourcils",
+  "EyebrowWidth": "Largeur des sourcils",
+  "EyebrowDepth": "Profondeur des sourcils",
+  "EarsHeight": "Hauteur d'oreille",
+  "EarsAngle": "Inclinaison des oreilles",
+  "EarsSize": "Taille des oreilles",
+  "EarsLobeSize": "Taille du lobe",
+  "EyelidsHeight": "Hauteur des paupières",
+  "EyelidsWidth": "Largeur des paupières",
+  "EyeDepth": "Profondeur des yeux",
+  "EyeAngle": "Inclinaison des yeux",
+  "EyeSeparation": "Séparation des yeux",
+  "EyeHeight": "Hauteur des yeux",
+  "NoseWidth": "Largeur de nez",
+  "NoseSize": "Taille de nez",
+  "NoseHeight": "Hauteur du nez",
+  "NoseAngle": "Inclinaison du nez",
+  "NoseCurvature": "Courbure du nez",
+  "NostrilsSeparation": "Séparation des narines",
+  "CheekbonesHeight": "Hauteur des pommettes",
+  "CheekbonesWidth": "Largeur de joue",
+  "CheekbonesDepth": "Profondeur des pommettes",
+  "MouthWidth": "Largeur de bouche",
+  "MouthDepth": "Profondeur de la bouche",
+  "MouthDeviation": "Écart de bouche",
+  "MouthHeight": "Hauteur de la bouche",
+  "UpperLipHeight": "Hauteur de la lèvre supérieure",
+  "UpperLipWidth": "Largeur de lèvre supérieure",
+  "UpperLipDepth": "Profondeur de la lèvre supérieure",
+  "LowerLipHeight": "Hauteur de lèvre inférieure",
+  "LowerLipWidth": "Largeur de lèvre inférieure",
+  "LowerLipDepth": "Profondeur des lèvres inférieure",
+  "MandibleHeight": "Hauteur de mâchoire",
+  "MandibleWidth": "Largeur de mâchoirea",
+  "MandibleDepth": "Profondeur de mâchoire",
+  "ChinHeight": "Hauteur du menton",
+  "ChinWidth": "Largeur du menton",
+  "ChinDepth": "Profondeur du menton",
+  "BeardType": "Type de barbe",
+  "HairType": "Type de cheveux",
+  "BodyType": "Forme du corps",
+  "WaistType": "Type de taille",
+  "Confirm": "Confirmer",
 
   ///Descriptions of the body Menu sections
-  "LegsTypeDesc": "Choose the type of legs",
-  "TorsoTypeDesc": "Choose the type of torso",
-  "FaceTypeDesc": "Choose the type of face",
-  "BodyColorDesc": "Choose your body colour",
-  "FaceSizeDesc": "Choose the face size",
-  "EyebrowHeightDesc": "Choose the eyebrow height",
-  "EyebrowWidthDesc": "Choose the eyebrow width",
+  "LegsTypeDesc": "Choisissez le type de jambes",
+  "TorsoTypeDesc": "Choisissez le type de torse",
+  "FaceTypeDesc": "Choisissez le type de visage",
+  "BodyColorDesc": "Choisissez la couleur de votre corps",
+  "FaceSizeDesc": "Choisissez la taille du visage",
+  "EyebrowHeightDesc": "Choisissez la hauteur des sourcils",
+  "EyebrowWidthDesc": "Choisissez la largeur des sourcils",
   "EyebrowDepthDesc": "Choose the eyebrow depth",
-  "EarsHeightDesc": "Choose the ears height",
-  "EarsAngleDesc": "Choose the ears inclination",
-  "EarsSizeDesc": "Choose the ears size",
-  "EarsLobeSizeDesc": "Choose the earlobe size",
-  "EyelidsHeightDesc": "Choose the earlids height",
-  "EyelidsWidthDesc": "Choose the earlids width",
-  "EyeDepthDesc": "Choose the eyes depth",
-  "EyeAngleDesc": "Choose the eyes inclination",
-  "EyeSeparationDesc": "Choose the eyes separation",
-  "EyeHeightDesc": "Choose the eyes height",
-  "NoseWidthDesc": "Choose the Nose width",
-  "NoseSizeDesc": "Choose the Nose size",
-  "NoseHeigthDesc": "Choose the Nose height",
-  "NoseAngleDesc": "Choose the Nose inclination",
-  "NoseCurvatureDesc": "Choose the Nose curvature",
-  "NostrilsSeparationDesc": "Choose the nostrils separation",
-  "CheekbonesHeightDesc": "Choose the cheekbones height",
-  "CheekbonesWidthDesc": "Choose the cheekbones width",
-  "CheekbonesDepthDesc": "Choose the cheekbones depth",
-  "MouthWidthDesc": "Choose the mouth width",
-  "MouthDepthDesc": "Choose the mouth depth",
-  "MouthDeviationDesc": "Choose the mouth deviation",
-  "MouthHeightDesc": "Choose the mouth height",
-  "UpperLipHeightDesc": "Choose the upper lip height",
-  "UpperLipWidthDesc": "Choose the upper lip width",
-  "UpperLipDepthDesc": "Choose the upper lip depth",
-  "LowerLipHeightDesc": "Choose the lower lip height",
-  "LowerLipWidthDesc": "Choose the lower lip width",
-  "LowerLipDepthDesc": "Choose the lower lip depth",
-  "MandibleHeightDesc": "Choose the mandible height",
-  "MandibleWidthDesc": "Choose the mandible width",
-  "MandibleDepthDesc": "Choose the mandible depth",
-  "ChinHeightDesc": "Choose the chin height",
-  "ChinWidthDesc": "Choose the chin width",
-  "ChinDepthDesc": "Choose the chin depth",
-  "BeardTypeDesc": "Choose the beard",
-  "HairTypeDesc": "Choose the hair",
-  "BodyTypeDesc": "Choose the body type",
-  "WaistTypeDesc": "Choose the waist",
-  "ConfirmDesc": "Time to dress up, you will be able to return to this section if you want to change something",
+  "EarsHeightDesc": "Choisissez la profondeur des sourcils",
+  "EarsAngleDesc": "Choisissez l'inclinaison des oreilles",
+  "EarsSizeDesc": "Choisissez la taille des oreilles",
+  "EarsLobeSizeDesc": "Choisissez la taille du lobe d'oreille",
+  "EyelidsHeightDesc": "Choisissez la hauteur des écouteurs",
+  "EyelidsWidthDesc": "Choisissez la largeur des écouteurs",
+  "EyeDepthDesc": "Choisissez la profondeur des yeux",
+  "EyeAngleDesc": "Choisissez l'inclinaison des yeux",
+  "EyeSeparationDesc": "Choisissez la séparation des yeux",
+  "EyeHeightDesc": "Choisissez la hauteur des yeux",
+  "NoseWidthDesc": "Choisissez la largeur de nouse",
+  "NoseSizeDesc": "Choisissez la taille du nez",
+  "NoseHeigthDesc": "Choisissez la hauteur du nez",
+  "NoseAngleDesc": "Choisissez l'inclinaison du nez",
+  "NoseCurvatureDesc": "Choisissez la courbure du nez",
+  "NostrilsSeparationDesc": "Choisissez la séparation des narines",
+  "CheekbonesHeightDesc": "Choisissez la hauteur des pommettes",
+  "CheekbonesWidthDesc": "Choisissez la largeur des pommettes",
+  "CheekbonesDepthDesc": "Choisissez la profondeur des pommettes",
+  "MouthWidthDesc": "Choisissez la largeur de la bouche",
+  "MouthDepthDesc": "Choisissez la profondeur de la bouche",
+  "MouthDeviationDesc": "Choisissez la déviation de la bouche",
+  "MouthHeightDesc": "Choisissez la hauteur de la bouche",
+  "UpperLipHeightDesc": "Choisissez la hauteur de la lèvre supérieure",
+  "UpperLipWidthDesc": "Choisissez la largeur de la lèvre supérieure",
+  "UpperLipDepthDesc": "Choisissez la profondeur de la lèvre supérieure",
+  "LowerLipHeightDesc": "Choisissez la hauteur de lèvre inférieure",
+  "LowerLipWidthDesc": "Choisissez la largeur de lèvre inférieure",
+  "LowerLipDepthDesc": "Choisissez la profondeur de lèvre inférieure",
+  "MandibleHeightDesc": "Choisissez la hauteur de la mandibule",
+  "MandibleWidthDesc": "Choisissez la largeur de la mandibule",
+  "MandibleDepthDesc": "Choisissez la profondeur de la mandibule",
+  "ChinHeightDesc": "Choisissez la hauteur du menton",
+  "ChinWidthDesc": "Choisissez la largeur du menton",
+  "ChinDepthDesc": "Choisissez la profondeur du menton",
+  "BeardTypeDesc": "Choisissez la barbe",
+  "HairTypeDesc": "Choisissez les cheveux",
+  "BodyTypeDesc": "Choisissez la forme du corps",
+  "WaistTypeDesc": "Choisissez la taille",
+  "ConfirmDesc": "Il est temps de vous habiller, vous pourrez revenir dans cette section si vous voulez changer quelque chose",
 
-  //Ropa
-  "TitleMenuClothes": "Dressing room", // Menu Tittle
-  "SubTitleMenuClothes": "Dress up your character", // Menu Description
+  //Vêtements
+  "TitleMenuClothes": "Dressing", // Menu Tittle
+  "SubTitleMenuClothes": "Habillez votre personnage", // Description du Menu
 
-  "HatsValue": "Hat #", // The options of the hats section
-  "GlassesValue": "Glasses #", // The options of the glasses section
-  "NeckwearValue": "Garment #", // The options of the neckwear section
-  "TiesValue": "Tie #", // The options of the ties section
-  "ShirtsValue": "Shirt #", // The options of the shirts section
-  "SuspendersValue": "Suspenders #", // The options of the suspenders section
-  "VestsValue": "Vest #", // The options of the vests section
-  "CoatsValue": "Coat #", // The options of the coats section
-  "PonchosValue": "Poncho #", // The options of the ponchos section
-  "CloaksValue": "Cap #", // The options of the cloaks section
-  "GlovesValue": "Gloves #", // The options of the gloves section
-  "RingsValue": "Ring #", // The options of the rings section
-  "BraceletsValue": "Bracelet #", // The options of the bracelets section
-  "HolstersValue": "Holster #", // The options of the holsters section
-  "BeltsValue": "Belt #", // The options of the belts section
-  "BucklesValue": "Buckle #", // The options of the buckles section
-  "PantsValue": "Pants #", // The options of the pants section
-  "SkirtsValue": "Falda #", // The options of the skirts section
-  "bowValue": "bow #", // The options of the bow section
-  "armorValue": "armor #", // The options of the bow section
-  "teethValue": "teeth #", // The options of the bow section
-  "ChapsValue": "Chaps #", // The options of the chaps section
-  "BootsValue": "Boots #", // The options of the boots section
-  "SpursValue": "Spurs #", // The options of the spurs section
+  "HatsValue": "Chapeau #", // Les options de la section chapeaux
+  "GlassesValue": "Lunettes #", // Les options dans la section verres
+  "NeckwearValue": "Vêtement #", // Les options de la section cravates
+  "TiesValue": "Cravate #", // Les options de la section liens
+  "ShirtsValue": "Chemise #", // Les options de la section chemises
+  "SuspendersValue": "Bretelles #", // Les options de la section sangles
+  "VestsValue": "Gilet #", // Les options de la section gilets
+  "CoatsValue": "Manteau #", // Les options de la section des manteaux
+  "PonchosValue": "Poncho #", // Les options de la section poncho
+  "CloaksValue": "Cape #", // Les options de la section des couches
+  "GlovesValue": "Gants #", // Les options de la section des gants
+  "RingsValue": "Anneau #", // Les options de la section d'anneau
+  "BraceletsValue": "Bracelet #", // Les options de la section bracelets
+  "HolstersValue": "Étui #", // Les options de la section étuis
+  "BeltsValue": "Ceinture #", // Les options de la section ceintures
+  "BucklesValue": "Boucle #", // Les options de la section boucles
+  "PantsValue": "Pantalon #", // Les options de la section pantalon
+  "SkirtsValue": "Jupe #", // Les options de la section jupes
+  "bowValue": "Arc #", // The options of the bow section
+  "armorValue": "Armure #", // The options of the bow section
+  "teethValue": "Dents #", // The options of the bow section
+  "ChapsValue": "Chaps #", // Les options de la section chaffes
+  "BootsValue": "Bottes #", // Les options de la section bottes
+  "SpursValue": "Éperons #", // Les options de la section des éperons
   "SpatsValue": "Spats #",
   "GauntletsValue": "Gauntlets #",
   "LoadoutsValue": "Loadouts #",
   "AccessoriesValue": "Accessories #",
   "SatchelsValue": "Satchels #",
   "GunbeltAccsValue": "Gunbelt Accessories #",
-  "NoHatsValue": "Without a Hat", // The option it gives when you do not wear a hat
-  "NoGlassesValue": "Without Glasses", // The option it gives when you do not wear glasses
-  "NoNeckwearValue": "Without Neckwear", // The option it gives when you do not wear neckwear
-  "NoTiesValue": "Without a Tie", // The option it gives when you do not wear a tie
-  "NoShirtsValue": "Without a Shirt", // The option it gives when you do not wear a shirt
-  "NoSuspendersValue": "Without Suspenders", // The option it gives when you do not wear suspenders
-  "NoVestsValue": "Without a Vest", // The option it gives when you do not wear a vest
-  "NoCoatsValue": "Without a Coat", // The option it gives when you do not wear a coat
-  "NoPonchosValue": "Without a Poncho", // The option it gives when you do not wear a poncho
-  "NoCloaksValue": "Without a Cloak", // The option it gives when you do not wear a cloak
-  "NoGlovesValue": "Without Gloves", // The option it gives when you do not wear gloves
-  "NoRingsValue": "Without a Ring", // The option it gives when you do not wear a ring
-  "NoBraceletsValue": "Without a Bracelet", // The option it gives when you do not wear a bracelet
-  "NoHolstersValue": "Without a Holster", // The option it gives when you do not wear a holster
-  "NoBeltsValue": "Without a Belt", // The option it gives when you do not wear a belt
-  "NoBucklesValue": "Without a Buckle", // The option it gives when you do not wear a buckle
-  "NoPantsValue": "Without Pants", // The option it gives when you do not wear pants
-  "NoSkirtsValue": "Without a Skirt", // The option it gives when you do not wear a skirt
-  "NobowValue": "Without a Bow", // The option it gives when you do not wear a bow
-  "NoarmorValue": "Without Armor", // The option it gives when you do not wear a bow
-  "NoteethValue": "Without Teeth", // The option it gives when you do not wear a bow
-  "NoChapsValue": "Without Chaps", // The option it gives when you do not wear chaps
-  "NoBootsValue": "Without Boots", // The option it gives when you do not wear boots
-  "NoSpursValue": "Without Spurs", // The option it gives when you do not wear spurs
-  "NoSpatsValue": "Without Spats",
-  "NoGauntletsValue": "Without Gauntlets",
-  "NoLoadoutsValue": "Without Loadouts",
-  "NoAccessoriesValue": "Without Accessories",
-  "NoSatchelsValue": "Without Satchels",
-  "NoGunbeltAccsValue": "Without Gunbelt Accs",
-  "NoMaskValue": "Without Face Mask", // The option it gives when you do not wear a face mask
+  "NoHatsValue": "Sans Chapeau", // L'option qu'il donne lorsque vous ne portez pas de chapeau
+  "NoGlassesValue": "Sans Lunettes", // L'option qu'il donne lorsque vous ne portez pas de lunettes
+  "NoNeckwearValue": "Sans Cravates", // L'option qu'il donne lorsque vous ne portez pas de cravates
+  "NoTiesValue": "Sans Cravate", // L'option qu'il donne lorsque vous ne portez pas de cravate
+  "NoShirtsValue": "Sans Chemise", // L'option qu'il donne lorsque vous ne portez pas de chemise
+  "NoSuspendersValue": "Sans Bretelles", // L'option qu'il donne lorsque vous ne portez pas de bretelles
+  "NoVestsValue": "Sans Gilet", // L'option qu'il donne lorsque vous ne portez pas de gilet
+  "NoCoatsValue": "Sans Manteau", // L'option qu'il donne lorsque vous ne portez pas de manteau
+  "NoPonchosValue": "Sans Poncho", // L'option qu'il donne lorsque vous ne portez pas de poncho
+  "NoCloaksValue": "Sans Cape", // L'option qu'il donne lorsque vous ne portez pas de cape
+  "NoGlovesValue": "Sans Gants", // L'option qu'il donne lorsque vous ne portez pas de gants
+  "NoRingsValue": "Sans Bague", // L'option qu'il donne lorsque vous ne portez pas de bague
+  "NoBraceletsValue": "Sans Bracelet", // L'option qu'il donne lorsque vous ne portez pas de bracelet
+  "NoHolstersValue": "Sans Étui", // L'option qu'il donne lorsque vous ne portez pas d'étui
+  "NoBeltsValue": "Sans Ceinture", // L'option qu'il donne lorsque vous ne portez pas de ceinture
+  "NoBucklesValue": "Sans Boucle", // L'option qu'il donne lorsque vous ne portez pas de boucle
+  "NoPantsValue": "Sans Pantalons", // L'option qu'il donne lorsque vous ne portez pas de pantalon
+  "NoSkirtsValue": "Sans Jupe", // L'option qu'il donne lorsque vous ne portez pas de jupe
+  "NobowValue": "Sans Arc", // The option it gives when you do not wear a bow
+  "NoarmorValue": "Sans Armure", // The option it gives when you do not wear a bow
+  "NoteethValue": "Sans Dents", // The option it gives when you do not wear a bow
+  "NoChapsValue": "Sans Chaps", // L'option qu'il donne lorsque vous ne portez pas de jambières
+  "NoBootsValue": "Sans Bottes", // L'option qu'il donne lorsque vous ne portez pas de bottes
+  "NoSpursValue": "Sans Éperons", // L'option qu'il donne lorsque vous ne portez pas d'éperons
+  "NoSpatsValue": "Sans guêtres",
+  "NoGauntletsValue": "sans Gantelets",
+  "NoLoadoutsValue": "sans Cartouchières",
+  "NoAccessoriesValue": "Sans accesoires divers",
+  "NoSatchelsValue": "sans sacoches",
+  "NoGunbeltAccsValue": "sans accesoire ceinture ",
+  "NoMaskValue": "Sans masque", // L'option qu'il donne lorsque vous ne portez pas de masque
 
-  "Hats": "Hats",
-  "Glasses": "Glasses",
-  "Masks": "Face Masks",
-  "Neckwear": "Neckwear",
-  "Ties": "Ties",
-  "Shirts": "Shirts",
-  "Suspenders": "Suspenders",
-  "Vests": "Vests",
-  "Coats": "Coats",
-  "CoatsClosed": "Closed Coats",
+  "Hats": "Chapeaux",
+  "Glasses": "Lunettes",
+  "Masks": "Masque",
+  "Neckwear": "Vêtements",
+  "Ties": "Cravates",
+  "Shirts": "Chemises",
+  "Suspenders": "Bretelles",
+  "Vests": "Gilets",
+  "Coats": "Manteaux",
+  "CoatsClosed": "Manteaux fermés",
   "Ponchos": "Ponchos",
-  "Cloaks": "Cloaks",
-  "Gloves": "Gloves",
-  "RightRings": "Right hand rings",
-  "LeftRings": "Left hand rings",
+  "Cloaks": "Couches",
+  "Gloves": "Gants",
+  "RightRings": "Anneaux à droite",
+  "LeftRings": "Anneaux à gauche",
   "Bracelets": "Bracelets",
-  "PrimaryHolsters": "Primary holsters",
-  "Belts": "Belts",
-  "Buckles": "Buckles",
-  "SecondaryHolsters": "Secondary holsters",
-  "Pants": "Pants",
-  "Skirts": "Skirts",
-  "bow": "Bows",
-  "armor": "Armor",
-  "teeth": "Teeth",
+  "PrimaryHolsters": "Étui principal",
+  "Belts": "Ceintures",
+  "Buckles": "Boucles",
+  "SecondaryHolsters": "Étuis secondaires",
+  "Pants": "Pantalons",
+  "Skirts": "Jupes",
+  "bow": "Arc",
+  "armor": "Armure",
+  "teeth": "dents",
   "Chaps": "Chaps",
-  "Boots": "Boots",
-  "Spurs": "Spurs",
-  "Spats": "Spats",
-  "Gauntlets": "Gauntlets",
-  "Loadouts": "Loadouts",
-  "Accessories": "Accessories",
-  "Satchels": "Satchels",
-  "GunbeltAccs": "Gunbelt Accessories",
+  "Boots": "Bottes",
+  "Spurs": "Éperons",
+  "Spats": "guêtres",
+  "Gauntlets": "Gantelets",
+  "Loadouts": "Cartouchières",
+  "Accessories": "Accesoires divers",
+  "Satchels": "sacoches",
+  "GunbeltAccs": "Accessoires de ceinture",
 
-  "Finish": "Dress up character", // Confirms the options of the Menu
+  "Finish": "Habiller le personnage", // Confirmer les options du Menu
 
-  // Descriptions of the Clothing Menu
-  "HatsDesc": "Choose the hat",
-  "GlassesDesc": "Choose the glasses",
-  "MasksDesc": "Choose the mask if you want to wear one",
-  "NeckwearDesc": "Choose the neckwear",
-  "TiesDesc": "Choose the tie",
-  "ShirtsDesc": "Choose the shirt",
-  "SuspendersDesc": "Choose the suspenders",
-  "VestsDesc": "Choose the vest",
-  "CoatsDesc": "Choose the coat",
-  "PonchosDesc": "Choose the poncho",
-  "CloaksDesc": "Choose the cloak",
-  "GlovesDesc": "Choose the gloves",
-  "RightRingsDesc": "Choose the right hand rings",
-  "LeftRingsDesc": "Choose the left hand rings",
-  "BraceletsDesc": "Choose the bracelet",
-  "PrimaryHolstersDesc": "Choose the primary holster",
-  "BeltsDesc": "Choose the belt",
-  "BucklesDesc": "Choose the buckle",
-  "SecondaryHolstersDesc": "Choose the secondary holster",
-  "PantsDesc": "Choose the pants",
-  "SkirtsDesc": "Choose the skirt",
-  "bowDesc": "Choose the Bow",
-  "armorDesc": "Choose Armor",
-  "teethDesc": "Choose Teeth",
-  "ChapsDesc": "Choose the chaps",
-  "BootsDesc": "Choose the boots",
-  "SpursDesc": "Choose the spurs",
-  "SpatsDesc": "Choose the spats",
-  "GauntletsDesc": "Choose the gauntlets",
-  "LoadoutsDesc": "Choose the loadouts",
-  "AccessoriesDesc": "Choose the accessories",
-  "SatchelsDesc": "Choose the satchels",
-  "GunbeltAccsDesc": "Choose the gunbelt accessories",
-  "FinishDesc": "Make sure you have everything chosen as you want, you will have to go to a clothing store in order to change your clothes",
-  "TipFinal": "Welcome to Vorp , we hope that your stay is the most entertaining."
+  //Descriptions des sections du menu des vêtements
+  "HatsDesc": "Choisissez le chapeau",
+  "GlassesDesc": "Choisissez les verres",
+  "MasksDesc": "Choisissez le masque si vous voulez en porter un",
+  "NeckwearDesc": "Choisissez les cravates",
+  "TiesDesc": "Choisissez la cravate",
+  "ShirtsDesc": "Choisissez la chemise",
+  "SuspendersDesc": "Choisissez les bretelles",
+  "VestsDesc": "Choisissez le gilet",
+  "CoatsDesc": "Choisissez le manteau",
+  "PonchosDesc": "Choisissez le poncho",
+  "CloaksDesc": "Choisissez la cape",
+  "GlovesDesc": "Choisissez les gants",
+  "RightRingsDesc": "Choisissez les bagues de droite",
+  "LeftRingsDesc": "Choisissez les bagues gauche",
+  "BraceletsDesc": "Choisissez le bracelet",
+  "PrimaryHolstersDesc": "Choisissez l'étui principal",
+  "BeltsDesc": "Choisissez la ceinture",
+  "BucklesDesc": "Choisissez la boucle",
+  "SecondaryHolstersDesc": "Choisissez l'étui secondaire",
+  "PantsDesc": "Choisissez le pantalon",
+  "SkirtsDesc": "Choisissez la jupe",
+  "bowDesc": "Choisissez l'arc",
+  "armorDesc": "Choisissez l'armure",
+  "teethDesc": "Choisissez les dents",
+  "ChapsDesc": "Choisissez les chaps",
+  "BootsDesc": "Choisissez les bottes",
+  "SpursDesc": "Choisissez les éperons",
+  "SpatsDesc": "Choisissez les guêtres",
+  "GauntletsDesc": "Choisissez les Gantelets",
+  "LoadoutsDesc": "Choisissez la cartouchières",
+  "AccessoriesDesc": "Choisissez les accesoires divers",
+  "SatchelsDesc": "Choisissez un sacoches",
+  "GunbeltAccsDesc": "Choisissez les accessoires de ceinture",
+  "FinishDesc": "Assurez-vous que vous avez tout choisi comme vous le souhaitez, vous devrez vous rendre dans un magasin de vêtements pour changer de vêtements",
+  "TipFinal": "Bienvenue sur RiverSide, nous espérons que votre séjour sera des plus divertissants"
 }
