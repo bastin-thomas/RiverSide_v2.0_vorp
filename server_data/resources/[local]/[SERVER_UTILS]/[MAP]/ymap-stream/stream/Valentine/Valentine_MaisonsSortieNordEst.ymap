@@ -1,0 +1,386 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="-673.198883" y="333.190063" z="-281.692520"/>
+	<streamingExtentsMax x="172.469879" y="1165.117432" z="522.189034"/>
+	<entitiesExtentsMin x="-273.198883" y="733.190063" z="118.307480"/>
+	<entitiesExtentsMax x="-227.530121" y="765.117432" z="122.189034"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>p_bra_shutter07x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-259.524933" y="746.422241" z="118.887344"/>
+			<rotation w="0.984751" x="0.000000" y="-0.000000" z="-0.173970"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_bra_shutter07x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-255.193069" y="735.120544" z="118.830208"/>
+			<rotation w="0.165361" x="-0.000000" y="0.000000" z="0.986233"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_bra_shutter07x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-227.530121" y="751.394897" z="118.462196"/>
+			<rotation w="0.165379" x="-0.000000" y="0.000000" z="0.986230"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_shutter_rho_mansbuildings</archetypeName>
+			<flags value="1572897"/>
+			<position x="-264.392792" y="763.568848" z="118.619530"/>
+			<rotation w="0.603173" x="0.000000" y="-0.000000" z="-0.797611"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_shutter_rho_mansbuildings</archetypeName>
+			<flags value="1572897"/>
+			<position x="-259.299042" y="757.639832" z="118.661911"/>
+			<rotation w="0.602668" x="0.000000" y="-0.000000" z="-0.797992"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_shutter_rho_mansbuildings</archetypeName>
+			<flags value="1572897"/>
+			<position x="-260.457153" y="752.362610" z="118.784248"/>
+			<rotation w="0.990502" x="0.000000" y="-0.000000" z="-0.137495"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_bra_shutter07x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-265.877777" y="741.412720" z="118.808403"/>
+			<rotation w="0.580439" x="0.000000" y="-0.000000" z="-0.814304"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_shutter_rho_mansbuildings</archetypeName>
+			<flags value="1572897"/>
+			<position x="-273.198883" y="754.680664" z="122.038292"/>
+			<rotation w="0.794253" x="-0.000000" y="0.000000" z="0.607587"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_shutter_rho_mansbuildings</archetypeName>
+			<flags value="1572897"/>
+			<position x="-266.224579" y="765.117432" z="122.045013"/>
+			<rotation w="0.123322" x="0.002040" y="0.007637" z="0.992335"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_bra_shutter07x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-254.640335" y="737.545471" z="118.884735"/>
+			<rotation w="0.819336" x="-0.000000" y="0.000000" z="0.573314"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_shutter_rho_mansbuildings</archetypeName>
+			<flags value="1572897"/>
+			<position x="-258.891754" y="756.199646" z="122.189034"/>
+			<rotation w="0.608264" x="0.000000" y="-0.000000" z="-0.793735"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_shutter_rho_mansbuildings</archetypeName>
+			<flags value="1572897"/>
+			<position x="-270.173187" y="749.760620" z="118.738480"/>
+			<rotation w="0.990470" x="-0.005637" y="-0.002741" z="-0.137584"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_bra_shutter07x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-242.033066" y="758.573547" z="118.307480"/>
+			<rotation w="0.984751" x="0.000000" y="-0.000000" z="-0.173970"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_bra_shutter07x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-256.931549" y="743.832703" z="118.887894"/>
+			<rotation w="0.819345" x="-0.000000" y="0.000000" z="0.573300"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_shutter_rho_mansbuildings</archetypeName>
+			<flags value="1572897"/>
+			<position x="-265.279572" y="751.074158" z="118.791443"/>
+			<rotation w="0.990887" x="0.000000" y="-0.000000" z="-0.134698"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_bra_shutter07x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-255.478027" y="739.862488" z="118.873665"/>
+			<rotation w="0.819337" x="-0.000000" y="0.000000" z="0.573312"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_shutter_rho_mansbuildings</archetypeName>
+			<flags value="1572897"/>
+			<position x="-269.977966" y="764.143372" z="122.040611"/>
+			<rotation w="0.140666" x="0.004221" y="-0.006986" z="0.990023"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_bra_shutter07x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-271.161804" y="760.071838" z="121.943489"/>
+			<rotation w="0.601551" x="0.000000" y="-0.000000" z="-0.798834"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_bra_shutter07x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-264.393677" y="751.274597" z="122.065804"/>
+			<rotation w="0.122201" x="-0.000000" y="0.000000" z="0.992505"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_bra_shutter07x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-263.449036" y="734.743530" z="118.811737"/>
+			<rotation w="0.573309" x="0.000000" y="-0.000000" z="-0.819339"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_shutter_rho_mansbuildings</archetypeName>
+			<flags value="1572897"/>
+			<position x="-258.704315" y="755.555725" z="118.660652"/>
+			<rotation w="0.794830" x="-0.000000" y="0.000000" z="0.606832"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_bra_shutter07x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-257.765747" y="746.165344" z="118.912544"/>
+			<rotation w="0.814308" x="-0.000000" y="0.000000" z="0.580433"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_bra_shutter07x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-259.556152" y="752.568420" z="122.048897"/>
+			<rotation w="0.130858" x="-0.000000" y="0.000000" z="0.991401"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_bra_shutter07x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-260.417908" y="733.190063" z="118.966301"/>
+			<rotation w="0.173985" x="-0.003155" y="0.005573" z="0.984728"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_bra_shutter07x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-269.316284" y="749.951416" z="122.066048"/>
+			<rotation w="0.122201" x="-0.000000" y="0.000000" z="0.992505"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="-1772.282959" y="-1074.380554" z="-307.494202"/>
+	<streamingExtentsMax x="-972.282959" y="-274.380554" z="492.505798"/>
+	<entitiesExtentsMin x="-1372.282959" y="-674.380554" z="92.505798"/>
+	<entitiesExtentsMax x="-1372.282959" y="-674.380554" z="92.505798"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>p_goldcradlestand01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-1372.282959" y="-674.380554" z="92.505798"/>
+			<rotation w="0.512654" x="0.004659" y="-0.033102" z="-0.857944"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>

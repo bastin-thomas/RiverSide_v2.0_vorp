@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Map>
+	<MapMeta Creator="Arkios"/>
+	<Object Hash="-1185467605" Position_x="-1360.4145507813" Position_y="2438.4621582031" Position_z="308.21301269531" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="122.27603149414" Collision="true" Visible="true"/>
+	<Object Hash="1286899977" Position_x="-1358.1655273438" Position_y="2438.9775390625" Position_z="310.21240234375" Rotation_x="-75.99991607666" Rotation_y="0.0" Rotation_z="66.430023193359" Collision="true" Visible="true"/>
+	<Object Hash="-274058460" Position_x="-1358.1771240234" Position_y="2438.9809570313" Position_z="309.75015258789" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="64.898567199707" Collision="true" Visible="true"/>
+	<Object Hash="1286899977" Position_x="-1359.2160644531" Position_y="2437.568359375" Position_z="309.15084838867" Rotation_x="-8.9405364178674e-07" Rotation_y="80.999801635742" Rotation_z="63.430076599121" Collision="true" Visible="true"/>
+	<Object Hash="1292400033" Position_x="-1359.8701171875" Position_y="2438.1010742188" Position_z="308.21441650391" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="145.62200927734" Collision="true" Visible="true"/>
+	<Object Hash="248710787" Position_x="-1359.2078857422" Position_y="2437.5793457031" Position_z="308.57366943359" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="159.04623413086" Collision="true" Visible="true"/>
+	<Object Hash="-298235932" Position_x="-1360.0526123047" Position_y="2438.19921875" Position_z="308.4006652832" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="138.88679504395" Collision="true" Visible="true"/>
+	<Object Hash="-1016507373" Position_x="-1359.9562988281" Position_y="2438.330078125" Position_z="308.20083618164" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="107.28294372559" Collision="true" Visible="true"/>
+	<Object Hash="-290406463" Position_x="-1360.1516113281" Position_y="2438.4475097656" Position_z="308.21206665039" Rotation_x="0.0" Rotation_y="-2.0000030994415" Rotation_z="96.143241882324" Collision="true" Visible="true"/>
+	<Object Hash="1259819729" Position_x="-1360.1192626953" Position_y="2439.0163574219" Position_z="307.61706542969" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="133.4973449707" Collision="true" Visible="true"/>
+</Map>

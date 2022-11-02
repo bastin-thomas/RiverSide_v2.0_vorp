@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<CMapData>
+    <flags value="2"/>
+    <contentFlags value="65"/>
+    <streamingExtentsMin x="-777.147675" y="385.223633" z="-284.829453"/>
+    <streamingExtentsMax x="38.398682" y="1188.763245" z="515.198380"/>
+    <entitiesExtentsMin x="-377.147675" y="785.223633" z="115.170547"/>
+    <entitiesExtentsMax x="-361.601318" y="788.763245" z="115.198380"/>
+    <entities>
+        <Item type="CEntityDef">
+            <archetypeName>p_door_val_barn_r</archetypeName>
+            <flags value="1572897"/>
+            <position x="-377.009369" y="786.520508" z="115.191246"/>
+            <rotation w="0.682693" x="0.000000" y="-0.000000" z="-0.730705"/>
+            <scaleXY value="1"/>
+            <scaleZ value="1"/>
+            <parentIndex value="-1"/>
+            <lodDist value="500"/>
+            <childLodDist value="500"/>
+            <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+            <numChildren value="0"/>
+            <ambientOcclusionMultiplier value="255"/>
+            <artificialAmbientOcclusion value="255"/>
+        </Item>
+        <Item type="CEntityDef">
+            <archetypeName>p_door_val_barn_l</archetypeName>
+            <flags value="1572897"/>
+            <position x="-361.716248" y="787.463379" z="115.197906"/>
+            <rotation w="0.687361" x="0.000000" y="-0.000000" z="-0.726316"/>
+            <scaleXY value="1"/>
+            <scaleZ value="1"/>
+            <parentIndex value="-1"/>
+            <lodDist value="500"/>
+            <childLodDist value="500"/>
+            <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+            <numChildren value="0"/>
+            <ambientOcclusionMultiplier value="255"/>
+            <artificialAmbientOcclusion value="255"/>
+        </Item>
+        <Item type="CEntityDef">
+            <archetypeName>p_door_val_barn_r</archetypeName>
+            <flags value="1572897"/>
+            <position x="-377.147675" y="788.763245" z="115.198380"/>
+            <rotation w="0.682693" x="0.000000" y="-0.000000" z="-0.730705"/>
+            <scaleXY value="1"/>
+            <scaleZ value="1"/>
+            <parentIndex value="-1"/>
+            <lodDist value="500"/>
+            <childLodDist value="500"/>
+            <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+            <numChildren value="0"/>
+            <ambientOcclusionMultiplier value="255"/>
+            <artificialAmbientOcclusion value="255"/>
+        </Item>
+        <Item type="CEntityDef">
+            <archetypeName>p_door_val_barn_l</archetypeName>
+            <flags value="1572897"/>
+            <position x="-361.601318" y="785.223633" z="115.170547"/>
+            <rotation w="0.687361" x="0.000000" y="-0.000000" z="-0.726316"/>
+            <scaleXY value="1"/>
+            <scaleZ value="1"/>
+            <parentIndex value="-1"/>
+            <lodDist value="500"/>
+            <childLodDist value="500"/>
+            <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+            <numChildren value="0"/>
+            <ambientOcclusionMultiplier value="255"/>
+            <artificialAmbientOcclusion value="255"/>
+        </Item>
+    </entities>
+</CMapData>

@@ -1,0 +1,38 @@
+<input id="input" type="hidden" />
+<script>
+    function copy() {
+        var copyText = document.querySelector("#input");
+        copyText.select();
+        document.execCommand("copy");
+    }
+
+    window.addEventListener('message', (e) => {
+        var copyText = document.querySelector("#input");
+        copyText.type = "input";
+        if (e.data.type === "lua") {
+            copyText.value = `{ x = ${e.data.pos.x}, y = ${e.data.pos.y}, z = ${e.data.pos.z} }`;
+        }
+        if (e.data.type === "JSON") {
+            copyText.value = `{'x': ${e.data.pos.x}, 'y': ${e.data.pos.y}, 'z': ${e.data.pos.z}}`;
+        }
+        if (e.data.type === "vector3") {
+            copyText.value = `vector3(${e.data.pos.x}, ${e.data.pos.y}, ${e.data.pos.z})`;
+        }
+        if (e.data.type === "coord1") {
+            copyText.value = `[x] =  {["x"] = {${e.data.pos.x}, ${e.data.pos.y}, ${e.data.pos.z}},},`;
+        }
+        if (e.data.type === "blipscoords") {
+            copyText.value = `[x] =  {
+                ["Enable"] = true, --enable disable\n
+                ["Blip_Enable"] = true, --This enable blip\n
+                ["Blip_Type"] = 00000, --Blip type\n
+                ["Blip_Name"] = "xxxxx",--Blip name\n
+                ["Coords"] = { x= ${e.data.pos.x}, y= ${e.data.pos.y}, z= ${e.data.pos.z} },--coords
+            },`;
+        }
+        copy();
+        console.log("copy coords " + copyText.value);
+        copyText.type = "hidden"
+
+    })
+</script>

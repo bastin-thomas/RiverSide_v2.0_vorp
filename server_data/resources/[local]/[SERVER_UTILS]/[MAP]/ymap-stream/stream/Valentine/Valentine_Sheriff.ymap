@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="-683.372772" y="401.936829" z="-281.806107"/>
+	<streamingExtentsMax x="130.564606" y="1213.239929" z="520.844734"/>
+	<entitiesExtentsMin x="-283.372772" y="801.936829" z="118.193893"/>
+	<entitiesExtentsMax x="-269.435394" y="813.239929" z="120.844734"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>p_boxcar_barrelcrate01</archetypeName>
+			<flags value="1572897"/>
+			<position x="-275.535004" y="803.305176" z="118.384628"/>
+			<rotation w="0.995492" x="0.000000" y="-0.000000" z="-0.094842"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_boxcar_barrelcrate01</archetypeName>
+			<flags value="1572897"/>
+			<position x="-271.507111" y="809.312378" z="118.345566"/>
+			<rotation w="0.995492" x="0.000000" y="-0.000000" z="-0.094842"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_boxcar_barrelcrate01</archetypeName>
+			<flags value="1572897"/>
+			<position x="-283.372772" y="804.471436" z="118.390511"/>
+			<rotation w="0.997634" x="0.000000" y="-0.000000" z="-0.068751"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_boxcar_barrelcrate01</archetypeName>
+			<flags value="1572897"/>
+			<position x="-276.245972" y="811.433960" z="118.380035"/>
+			<rotation w="0.995492" x="0.000000" y="-0.000000" z="-0.094842"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_debris07x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-275.378418" y="801.936829" z="118.384895"/>
+			<rotation w="0.886845" x="-0.023536" y="0.007419" z="-0.461407"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_boxcar_barrelcrate01</archetypeName>
+			<flags value="1572897"/>
+			<position x="-276.600525" y="812.521606" z="118.338173"/>
+			<rotation w="0.996248" x="-0.002397" y="0.007999" z="-0.086137"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_bra_shutter07x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-273.861786" y="813.023682" z="119.019241"/>
+			<rotation w="0.974398" x="-0.207114" y="-0.018187" z="-0.085562"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_cratestack01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-269.435394" y="809.622131" z="118.193893"/>
+			<rotation w="0.759832" x="0.005828" y="-0.020020" z="0.649785"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_bra_shutter07x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-270.739838" y="810.030457" z="119.967957"/>
+			<rotation w="0.782694" x="-0.011357" y="-0.013843" z="0.622150"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_bra_shutter07x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-272.921875" y="812.917664" z="120.844734"/>
+			<rotation w="0.996167" x="-0.000000" y="0.000000" z="-0.087474"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_barrel06x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-276.836517" y="813.239929" z="118.337120"/>
+			<rotation w="1.000000" x="0.000000" y="-0.000000" z="-0.000000"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_bra_shutter07x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-270.618073" y="805.616821" z="120.706802"/>
+			<rotation w="0.096170" x="-0.000000" y="0.000000" z="0.995365"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>
