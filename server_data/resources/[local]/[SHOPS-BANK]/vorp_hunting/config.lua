@@ -4,23 +4,22 @@
 Config = {}
 
 Config.DevMode = false -- DIABLE THIS IF YOUR SERVER IS LIVE
-
 Config.Linux = false -- If they use a Linux server, then true
-
 Config.butcherfunction = true -- set to true if you want to use butcher functions
+
 ----------------------------- TRANSLATE HERE -------------------------------------
 Config.Language = {
-    NotHoldingAnimal = "You Got Nothing To Sell",
-    NotInTheButcher = "I won't buy that animal",
-    AnimalSold = "Thanks for the deal you got ",
-    SkinnableAnimalstowed = "You obtained ",
-    stow = "Stow",
-    press = "Press",
-    sell = "Sell",
-    notabutcher = "You Dont Have The Right Job",
+    NotHoldingAnimal = "Vous n'avez rien à vendre",
+    NotInTheButcher = "Je n'achèterai pas cet animal",
+    AnimalSold = "Merci pour la vente ",
+    SkinnableAnimalstowed = "Vous avez obtenu ",
+    stow = "déposer votre peau",
+    press = "Appuyer",
+    sell = "Vendre",
+    notabutcher = "Vous n'avez pas le bon travail",
     dollar = " $",
-    join = " and ",
-    FullInventory = "Inventory is too full."
+    join = " et ",
+    FullInventory = "Votre inventaire est plein"
 }
 
 
@@ -29,10 +28,8 @@ Config.keys = {
     G = 0x760A9C6F, -- butcher sell and Stow
 }
 
-Config.aiButcherped = true -- spawn ai butched ped set to false if you dont want an ai butcher ped to spawn
-
+Config.aiButcherped = false -- spawn ai butched ped set to false if you dont want an ai butcher ped to spawn
 Config.joblocked = false -- lock the butcher so only people with the job can access. u can change access to each butcher by editing this  butcherjob = "butcher"
-
 Config.maxpelts = 2 -- max pelts allowed on back of horse
 
 ------------------- Item Quantity Instructions -----------------
