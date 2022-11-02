@@ -7,7 +7,7 @@ Config = {
   Debug = false, -- if your server is live set this to false.  to true only if you are testing things
   DevMode = false, -- if your server is live set this to false.  to true only if you are testing things (auto load inventory when script restart and before character selection. Alos add /getInv command)
 
-  defaultlang = "en_lang",
+  defaultlang = "fr_lang",
   dbupdater = true,
   ShowCharacterNameOnGive = false, -- when giving an item, show the character name of nearby players instead of their player ID. if set to false, show the player ID
 
@@ -189,380 +189,380 @@ Config = {
     AMMO_MOLOTOV = "Molotov",
     AMMO_MOLOTOV_VOLATILE = "Volatile Molotov"
   },
+  
   --DON'T TOUCH BESIDES NAME OF WEAPON
   Weapons = {
     {
-      Name     = "Lasso", -- TRANSLATE NAME ONLY
-      Desc     = "Used Up When You Hogtie Someone, The Reinforced one has unlimited hogtie usage", -- CHANGE DESCRIPTION ONLY
+      Name     = "Lasso Fragile", -- TRANSLATE NAME ONLY
+      Desc     = "Lasso relativement peux fiables, vos captures pourrait s'échapper", -- CHANGE DESCRIPTION ONLY
       HashName = "WEAPON_LASSO", -- DONT TOUCH
     },
     {
-      Name     = "Reinforced Lasso",
-      Desc     = "No Hogtie Limit",
+      Name     = "Lasso",
+      Desc     = "Un lasso qui peut servir a plusieurs choses",
       HashName = "WEAPON_LASSO_REINFORCED",
     },
     {
-      Name = "Knife",
-      Desc = "Knife used mainly for skinning animals",
+      Name = "Couteau de chasse",
+      Desc = "Couteau utilisé principalement pour dépecer les animaux",
       HashName = "WEAPON_MELEE_KNIFE",
     },
     {
-      Name = "Knife Rustic",
-      Desc = "old looking knife, could it be still useful ?",
+      Name = "Couteau rustique",
+      Desc = "Un vieux couteau, pourrait-il encore être utile ?",
       HashName = "WEAPON_MELEE_KNIFE_RUSTIC",
     },
     {
-      Name = "Knife Horror",
-      Desc = "This knife was used to do plenty of unpleasant things",
+      Name = "Couteau de l'horreur",
+      Desc = "Ce couteau a été utilisé pour faire plein de choses désagréables",
       HashName = "WEAPON_MELEE_KNIFE_HORROR",
     },
     {
-      Name = "Knife Civil War",
-      Desc = "A knife with a lot of history",
+      Name = "Couteau de la Guerre de Sécession",
+      Desc = "Un couteau avec beaucoup d'histoire",
       HashName = "WEAPON_MELEE_KNIFE_CIVIL_WAR",
     },
     {
-      Name = "Knife Jawbone",
-      Desc = "A knife made of ancient bones",
+      Name = "Couteau en os",
+      Desc = "Un couteau fait d'os anciens",
       HashName = "WEAPON_MELEE_KNIFE_JAWBONE",
     },
     {
-      Name = "Knife Miner",
-      Desc = "Miners bestfriend",
+      Name = "Couteau du mineur",
+      Desc = "Meilleur amis du mineur",
       HashName = "WEAPON_MELEE_KNIFE_MINER",
     },
     {
-      Name = "Knife Vampire",
-      Desc = "They cant be real...",
+      Name = "Couteau de vampire",
+      Desc = "Ils ne peuvent pas être réels...",
       HashName = "WEAPON_MELEE_KNIFE_VAMPIRE",
     },
     {
-      Name = "Cleaver",
-      Desc = "Scary looking but useful",
+      Name = "Couperet",
+      Desc = "Aspect effrayant mais utile",
       HashName = "WEAPON_MELEE_CLEAVER",
     },
     {
-      Name = "Hachet",
-      Desc = "A piece of wood with a blade",
+      Name = "Hachette",
+      Desc = "Un morceau de bois avec une lame",
       HashName = "WEAPON_MELEE_HATCHET",
     },
     {
-      Name = "Hachet Double Bit",
-      Desc = "A Piece of wood with twice the blade",
+      Name = "Hachette à double tranchant",
+      Desc = "Un morceau de bois avec deux fois la lame",
       HashName = "WEAPON_MELEE_HATCHET_DOUBLE_BIT",
     },
     {
-      Name = "Hachet Hewing",
-      Desc = "Some say this hatchet is magical",
+      Name = "Hachette à équarrir",
+      Desc = "Certains disent que cette hachette est magique",
       HashName = "WEAPON_MELEE_HATCHET_HEWING",
     },
     {
-      Name = "Hachet Hunter",
-      Desc = "A Hunters bestfriend",
+      Name = "Hachette du chasseur",
+      Desc = "Le meilleur amis des chasseurs",
       HashName = "WEAPON_MELEE_HATCHET_HUNTER",
     },
     {
-      Name = "Hachet Viking",
-      Desc = "Smells of fish and salt",
+      Name = "Hachette du Viking",
+      Desc = "Odeurs de poisson et de sel",
       HashName = "WEAPON_MELEE_HATCHET_VIKING",
     },
     {
       Name = "Tomahawk",
-      Desc = "A weapon befitting a warrior",
+      Desc = "Une arme digne d'un guerrier",
       HashName = "WEAPON_THROWN_TOMAHAWK",
     },
     {
-      Name = "Tomahawk Ancient",
-      Desc = "This one is Ancient",
+      Name = "Tomahawk Ancien",
+      Desc = "Celui-ci est ancien",
       HashName = "WEAPON_THROWN_TOMAHAWK_ANCIENT",
     },
     {
-      Name = "Throwing Knifes",
-      Desc = "Folks love playing with these",
+      Name = "Couteaux de lancer",
+      Desc = "Les gens adorent jouer avec ces",
       HashName = "WEAPON_THROWN_THROWING_KNIVES",
 
     },
     {
-      Name = "Machete",
-      Desc = "Useful in the jungle",
+      Name = "Machette",
+      Desc = "Utile dans la jungle",
       HashName = "WEAPON_MELEE_MACHETE",
     },
     {
-      Name = "Bow",
-      Desc = "A Simple but effective weapon",
+      Name = "Arc",
+      Desc = "Une arme simple mais efficace",
       HashName = "WEAPON_BOW",
     },
     {
-      Name = "Pistol Semi-Auto",
-      Desc = "repeating single-chamber handgun",
+      Name = "Pistolet Semi-Automatique",
+      Desc = "Arme de poing à chambre unique à répétition",
       HashName = 'WEAPON_PISTOL_SEMIAUTO',
     },
     {
-      Name = "Pistol Mauser",
-      Desc = "semi-automatic pistol that was originally produced by German arms manufacturer Mauser",
+      Name = "Pistolet Mauser",
+      Desc = "Pistolet semi-automatique produit à l'origine par le fabricant d'armes allemand Mauser",
       HashName = "WEAPON_PISTOL_MAUSER",
     },
     {
-      Name = "Pistol Volcanic",
-      Desc = " an improved version of the Rocket Ball ammunition",
+      Name = "Pistolet Volcanic",
+      Desc = "Une version améliorée des munitions Rocket Ball",
       HashName = "WEAPON_PISTOL_VOLCANIC",
     },
     {
-      Name = "Pistol M1899",
-      Desc = "its magazine-loaded ammunition allows for a swift reload",
+      Name = "Pistolet M1899",
+      Desc = "Ses munitions chargées en chargeur permettent un rechargement rapide",
       HashName = "WEAPON_PISTOL_M1899",
     },
     {
       Name = "Revolver Schofield",
-      Desc = "single-action, cartridge-firing, top-break revolver",
+      Desc = "Revolver à simple action à cartouche",
       HashName = "WEAPON_REVOLVER_SCHOFIELD",
     },
     {
       Name = "Revolver Navy",
-      Desc = "cap and ball revolver that was designed by Samuel Colt",
+      Desc = "revolver cap and ball conçu par Samuel Colt",
       HashName = "WEAPON_REVOLVER_NAVY",
     },
     {
       Name = "Revolver Navy Crossover",
-      Desc = "DESC IN config.lua",
+      Desc = "revolver cap and ball conçu par Samuel Colt",
       HashName = "WEAPON_REVOLVER_NAVY_CROSSOVER",
     },
     {
       Name = "Revolver Lemat",
-      Desc = "a revolver that is also a shotgun",
+      Desc = "Un revolver qui est aussi un fusil de chasse",
       HashName = "WEAPON_REVOLVER_LEMAT",
     },
     {
       Name = "Revolver Double Action",
-      Desc = "has a trigger that both cocks the hammer and releases it in one pull ",
+      Desc = "A une gâchette qui arme le marteau et le libère d'un seul coup ",
       HashName = "WEAPON_REVOLVER_DOUBLEACTION",
     },
     {
       Name = "Revolver Cattleman",
-      Desc = "A cowboys bestfriend",
+      Desc = "Le meilleur amis du cowboy",
       HashName = "WEAPON_REVOLVER_CATTLEMAN",
     },
     {
       Name = "Revolver Cattleman mexican",
-      Desc = "a different flavor",
+      Desc = "Une autre saveur",
       HashName = "WEAPON_REVOLVER_CATTLEMAN_MEXICAN",
     },
     {
-      Name = "Varmint Rifle",
-      Desc = "A rifle useful for hunting critters",
+      Name = "Fusil à petit gibier",
+      Desc = "Un fusil utile pour chasser les bestioles",
       HashName = "WEAPON_RIFLE_VARMINT",
 
     },
     {
-      Name = "Winchester Repeater",
-      Desc = "lever-action repeating rifles manufactured by the Winchester Repeating Arms Company",
+      Name = "Carabine Winchester",
+      Desc = "Fusils à répétition à levier fabriqués par la Winchester Repeating Arms Company",
       HashName = "WEAPON_REPEATER_WINCHESTER",
 
     },
     {
-      Name = "Henry Reapeater",
-      Desc = " lever-action tubular magazine rifle",
+      Name = "Carabine Henry",
+      Desc = "Carabine à chargeur tubulaire à levier",
       HashName = "WEAPON_REPEATER_HENRY",
 
     },
     {
-      Name = "Evans Repeater",
-      Desc = "a lever-action repeating rifle designed by Warren R. Evans as a high capacity rifle",
+      Name = "Carabine Evans",
+      Desc = "Un fusil à répétition à levier conçu par Warren R. Evans comme un fusil de grande capacité",
       HashName = "WEAPON_REPEATER_EVANS",
 
     },
     {
-      Name = "Carabine Reapeater",
-      Desc = "A reliable and popular repeating rifle, the Buck Carbine provides medium damage and a decent firing rate",
+      Name = "Carabine à répétition",
+      Desc = "Un fusil à répétition fiable et populaire, le Buck Carbine fournit des dégâts moyens et une cadence de tir décente",
       HashName = "WEAPON_REPEATER_CARBINE",
     },
     {
-      Name = "Rolling Block Rifle",
-      Desc = "Remington Rolling Block is a family of breech-loading rifles",
+      Name = "Fusil Rolling Block",
+      Desc = "Remington Rolling Block est une famille de fusils à chargement par la culasse",
       HashName = "WEAPON_SNIPERRIFLE_ROLLINGBLOCK",
     },
     {
-      Name = "Carcano Rifle",
-      Desc = "The Carcano is an Italian, bolt action rifle",
+      Name = "Fusil Carcano",
+      Desc = "Le Carcano est un fusil à verrou italien",
       HashName = "WEAPON_SNIPERRIFLE_CARCANO",
     },
     {
-      Name = "Springfield Rifle",
-      Desc = "Army's standard issue rifle",
+      Name = "Fusil Springfield",
+      Desc = "Fusil standard de l'armée",
       HashName = "WEAPON_RIFLE_SPRINGFIELD",
     },
     {
-      Name = "Elephant Rifle",
-      Desc = "Best Weapon for a hunter looking to take down large prey",
+      Name = "Fusil Elephant",
+      Desc = "Meilleure arme pour un chasseur cherchant à abattre de grosses proies",
       HashName = "WEAPON_RIFLE_ELEPHANT",
     },
     {
-      Name = "BoltAction Rifle",
-      Desc = "manual firearm action that is operated by directly manipulating the bolt",
+      Name = "Fusil à verrou",
+      Desc = "Mécanisme d'arme à feu manuel actionné en manipulant directement la culasse",
       HashName = "WEAPON_RIFLE_BOLTACTION",
     },
     {
-      Name = "Semi-Auto Shotgun",
-      Desc = "a repeating shotgun with a semi-automatic action, capable of automatically chambering a new shell",
+      Name = "Fusil semi-automatique",
+      Desc = "Un fusil à répétition à action semi-automatique, capable de chambrer automatiquement",
       HashName = "WEAPON_SHOTGUN_SEMIAUTO",
     },
     {
-      Name = "Sawedoff Shotgun",
-      Desc = "shotgun with a shorter gun barre",
+      Name = "Fusil à canon scié",
+      Desc = "Fusil avec un canon plus court",
       HashName = "WEAPON_SHOTGUN_SAWEDOFF",
     },
     {
-      Name = "Repeating Shotgun",
-      Desc = "The Lancaster Repeating Shotgun",
+      Name = "Fusil à répétition",
+      Desc = "Le fusil à répétition Lancaster",
       HashName = "WEAPON_SHOTGUN_REPEATING",
     },
     {
-      Name = "Double Barrel Exotic Shotgun",
-      Desc = "exotic-rarity variant of the Double Barrel Shotgun",
+      Name = "Fusil à double canon exotique",
+      Desc = "Variante de rareté exotique du fusil de chasse à double canon",
       HashName = "WEAPON_SHOTGUN_DOUBLEBARREL_EXOTIC",
     },
     {
-      Name = "Pump Shotgun",
-      Desc = "repeating firearm action that is operated manually by moving a sliding handguard",
+      Name = "Fusil à pompe",
+      Desc = "Répétition de l'action d'une arme à feu qui est actionnée manuellement en déplaçant un garde-main coulissant",
       HashName = "WEAPON_SHOTGUN_PUMP",
 
     },
     {
-      Name = "Double Barrel Shotgun",
-      Desc = "break-action shotgun with two parallel barrels, allowing two single shots to be fired in quick succession",
+      Name = "Fusil à double cano",
+      Desc = "Fusil à pompe à deux canons parallèles, permettant de tirer deux coups simples en succession rapide",
       HashName = "WEAPON_SHOTGUN_DOUBLEBARREL",
     },
     {
-      Name = "Camera",
-      Desc = "a journalists bestfriend",
+      Name = "Appareil photo",
+      Desc = "Le meilleur amis du journaliste",
       HashName = "WEAPON_KIT_CAMERA",
     },
     {
-      Name = "Improved Binoculars",
-      Desc = "See things clearly !",
+      Name = "Jumelles améliorées",
+      Desc = "Voir les choses clairement !",
       HashName = "WEAPON_KIT_BINOCULARS_IMPROVED",
     },
     {
-      Name = "Knife Trader",
-      Desc = "a traders bestfriend",
+      Name = "Couteau-lance",
+      Desc = "Le meilleur ami des commerçants",
       HashName = "WEAPON_MELEE_KNIFE_TRADER",
     },
     {
-      Name = "Binoculars",
-      Desc = "lets you see far things",
+      Name = "Jumelles",
+      Desc = "Permet de voir de loin",
       HashName = "WEAPON_KIT_BINOCULARS",
     },
     {
-      Name = "Advanced Camera",
-      Desc = "a camera thats slightly technologicaly better",
+      Name = "Appareil photo avancé",
+      Desc = "Un appareil photo légèrement meilleur sur le plan technologique",
       HashName = "WEAPON_KIT_CAMERA_ADVANCED",
     },
     {
-      Name = "Lantern",
-      Desc = "lets you see better in the dark",
+      Name = "Lanterne",
+      Desc = "Permet de mieux voir dans le noir",
       HashName = "WEAPON_MELEE_LANTERN",
     },
     {
-      Name = "Davy Lantern",
-      Desc = "safety lamp for use in flammable atmospheres",
+      Name = "Lanterne de Davy",
+      Desc = "Lampe de sécurité destinée à être utilisée dans des atmosphères inflammables",
       HashName = "WEAPON_MELEE_DAVY_LANTERN",
     },
     {
-      Name = "Halloween Lantern",
-      Desc = "made with a real human skull",
+      Name = "Lanterne d'Halloween",
+      Desc = "Fait avec un vrai crâne humain",
       HashName = "WEAPON_MELEE_LANTERN_HALLOWEEN",
     },
     {
-      Name = "Poison Bottle",
-      Desc = "who knows whats in this thing",
+      Name = "Bouteille empoisonnée",
+      Desc = "Qui sait ce qu'il y a dans ce truc",
       HashName = "WEAPON_THROWN_POISONBOTTLE",
     },
     {
-      Name = "Metal Detector",
-      Desc = "helps you find valuables",
+      Name = "Détecteur de métaux",
+      Desc = "Vous aide à trouver des objets de valeur",
       HashName = "WEAPON_KIT_METAL_DETECTOR",
     },
     {
       Name = "Dynamite",
-      Desc = "boomstick",
+      Desc = "Boom ?!",
       HashName = "WEAPON_THROWN_DYNAMITE",
 
     },
     {
       Name = "Molotov",
-      Desc = "an arsonists bestfriend",
+      Desc = "Le meilleur ami des pyromanes",
       HashName = "WEAPON_THROWN_MOLOTOV",
 
     },
     {
-      Name = "Improved Bow",
-      Desc = "a bow with better accuracy",
+      Name = "Arc amélioré",
+      Desc = "Un arc avec une meilleure précision",
       HashName = "WEAPON_BOW_IMPROVED",
     },
     {
-      Name = "Machete Collector",
-      Desc = "every collector needs one",
+      Name = "Machette Collector",
+      Desc = "Chaque collectionneur en a besoin",
       HashName = "WEAPON_MELEE_MACHETE_COLLECTOR",
     },
     {
-      Name = "Electric Lantern",
-      Desc = "a marvel of technology",
+      Name = "Lanterne électrique",
+      Desc = "Une merveille de technologie",
       HashName = "WEAPON_MELEE_LANTERN_ELECTRIC",
     },
     {
-      Name = "Torch",
-      Desc = "your basic stick on fire",
+      Name = "Torche",
+      Desc = "Un simple en feu",
       HashName = "WEAPON_MELEE_TORCH",
     },
     {
-      Name = "Moonshine Jug",
-      Desc = "those are very fun",
+      Name = "Pichet de moonshine",
+      Desc = "Un bon gros pichet",
       HashName = "WEAPON_MOONSHINEJUG_MP",
 
     },
     {
       Name = "Bolas",
-      Desc = "every badass cowboy needs one",
+      Desc = "Chaque dur à cuire en a besoin d'un",
       HashName = "WEAPON_THROWN_BOLAS",
     },
     {
-      Name = "Bolas Hawkmoth",
-      Desc = "a bola with a twist",
+      Name = "Bolas sphinx",
+      Desc = "Des bolas sphinx",
       HashName = "WEAPON_THROWN_BOLAS_HAWKMOTH",
     },
     {
-      Name = "Bolas Ironspiked",
-      Desc = "a more edgy bola",
+      Name = "Bolas à pointes de fer",
+      Desc = "Un bola plus énervé",
       HashName = "WEAPON_THROWN_BOLAS_IRONSPIKED",
 
     },
     {
-      Name = "Bolas Intertwined",
-      Desc = "a stronger bola",
+      Name = "Bolas entrelacés",
+      Desc = "Un bola costaud",
       HashName = "WEAPON_THROWN_BOLAS_INTERTWINED",
 
     },
     {
-      Name = "Fishing Rod",
-      Desc = "whats better than catching fish",
+      Name = "Canne à pêche",
+      Desc = "Quoi de mieux que d'attraper du poisson",
       HashName = "WEAPON_FISHINGROD",
     },
     {
-      Name = "Machete Horror",
-      Desc = "this one scares people",
+      Name = "Machette de l'horreur",
+      Desc = "Celui-ci fait peur aux gens",
       HashName = "WEAPON_MACHETE_HORROR",
     },
     {
-      Name = "Lantern Haloween",
-      Desc = "made with a real human skull",
+      Name = "Lanterne d'Halloween",
+      Desc = "Fait avec un vrai crâne humain",
       HashName = "WEAPON_MELEE_LANTERN_HALOWEEN",
 
     },
     {
-      Name = "Hammer",
-      Desc = "Richards Hammer!",
+      Name = "Marteau",
+      Desc = "Le gros marteau de ses morts",
       HashName = "WEAPON_MELEE_HAMMER",
-
     }
   }
 }
