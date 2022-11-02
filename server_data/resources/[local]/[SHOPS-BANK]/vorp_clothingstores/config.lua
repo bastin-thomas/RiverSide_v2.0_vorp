@@ -1,7 +1,7 @@
 Config = {
-  defaultlang = "En", -- Set your language, verify that it exists in vorp_clothingstore/languages/
+  defaultlang = "Fr", -- Set your language, verify that it exists in vorp_clothingstore/languages/
   debugMode = false,   -- LEAVE SET TO FALSE
-
+  
   Cost = {	-- Category Prices (Each item equiped adds to the total cost)
 	  Hats = 4.0,
 	  Glasses = 0.5,
@@ -130,5 +130,4 @@ Config = {
       NPCStore =  { -3681.88, -2627.49, -14.43, 5.85 }
     }
   }
-
 }
