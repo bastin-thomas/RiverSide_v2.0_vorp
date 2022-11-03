@@ -1,21 +1,17 @@
 ﻿{
 
-  "defaultlang": "Es", // set your language
-
+  "defaultlang": "Fr", // set your language
   "StableSlots": 5, // set max horses for each user
-
   "SecondsToRespawn": 120, // set max horses for each user
-
+  
   "ItemsBlacklist": [
     "anything",
     "DoYoulike"
   ],
 
   "ShowTagsOnHorses": true, // to display horse tags or not to display horse tags (floating name)
-
   "HorseSkillPullUpFailPercent": 20, // 20% of fail and drop out from horse
   "DistanceToTeleport": 100.0,
-
   "DefaultMaxWeight": 30, // Can store 30 Items by default
 
   "CustomMaxWeight": [ // Custom values, add a horse or a carriage to be able to modify the weight limit
